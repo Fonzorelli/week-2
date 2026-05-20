@@ -1,0 +1,7 @@
+pwd
+ls
+mkdir practice
+cd practice
+touch test.txt
+ls
+git status
